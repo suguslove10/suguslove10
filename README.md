@@ -1,5 +1,6 @@
 ![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
-
+---
+[![](https://visitcount.itsvg.in/api?id=suguslove10&icon=0&color=0)](https://visitcount.itsvg.in)
 # 💫 About Me:
 🔭 I’m currently working on **AOSP**<br><br>🌱 I’m currently learning **DevOps, JavaScript**<br><br>💬 Ask me about **Android, Operating System, Custom Apps and Scripts,custom ROM**<br><br>📫 How to reach me **sugugalag@gmail.com**<br><br>⚡ Fun fact **I am Funny**<br>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -17,7 +18,6 @@
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=suguslove10&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
